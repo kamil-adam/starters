@@ -1,2 +1,0 @@
-# ASAP
-A Scala Applications
